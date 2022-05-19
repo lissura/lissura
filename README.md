@@ -28,10 +28,4 @@
 
 
 ## Github Stats 📈 
-<a href="https://github.com/lissura">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lissura&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&line_height=27&theme=github_dark" />
-</a>
-
-<a href="https://github.com/lissura">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lissura&langs_count=3&theme=github_dark&hide_border=true" />
-</a>
+![Cindra's GitHub stats](https://github-readme-stats.vercel.app/api?username=lissura&show_icons=true&theme=dark)
