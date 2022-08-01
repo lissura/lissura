@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently Learning **Data Science** on Hacktive8
-- 📫 Contact me Through [Email](cindrac05@gmail.com), [Linkedin](https://www.linkedin.com/in/cindra-chatami-6a3216197/), and [Discord](discordapp.com/users/Cindra-Lissura#1650)
+- 📫 Contact me Through Email : cindrac05@gmail.com, [Linkedin](https://www.linkedin.com/in/cindra-chatami-6a3216197/), and [Discord](discordapp.com/users/Cindra-Lissura#1650)
 - ⚡ Interested in Data Analytics, Data Science, and Machine Learning
 - 📃 Please be mindful in using my repository
 - ⭐️ Keep support and give me  ⭐️ ⭐️ ⭐️
